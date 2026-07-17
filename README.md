@@ -32,7 +32,6 @@ As a Software Engineering student, I am very motivated to keep trying to develop
   </a>
 </p>
 
-### Connect with me:
 <p align="left">
   <!-- Tombol Sosial Media Kotak -->
   <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -43,7 +42,7 @@ As a Software Engineering student, I am very motivated to keep trying to develop
 <!-- Logo bahasa pemrograman (seperti gambar 1 & 2) -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,firebase,flutter,git,kotlin,laravel,py,php,sqlite,html,css,js,figma,pytorch,scikit,mongodb,java,vue,tailwind,docker,next,postgresql,redis,bootstrap,stackoverflow,c,golang,ruby,rust,swift" />
+    <img src="https://skillicons.dev/icons?i=dart,firebase,flutter,git,kotlin,laravel,py,php,sqlite,html,css,js,figma,pytorch,scikit,mongodb,java,vue,tailwind,docker,next,postgresql,redis,bootstrap,stackoverflow,c,golang,ruby,rust,swift,django,godot,unity,angular,react,androidstudio,npm,jquery,googlecloud,vscode,aws,arduino,blender,cpp" />
   </a>
 </p>
 
